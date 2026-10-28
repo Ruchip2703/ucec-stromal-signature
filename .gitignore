@@ -1,0 +1,8 @@
+results/
+results1/
+plots1/
+data/
+GDCdata*/
+*.rds
+.Rhistory
+.RData
