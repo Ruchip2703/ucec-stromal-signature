@@ -41,7 +41,7 @@ Random seed: `set.seed(123)` throughout. Analytic cohort: n = 541 patients, spli
 | Data | Source | Used in |
 |---|---|---|
 | TCGA-UCEC RNA-seq (STAR counts) and MAF | GDC Data Release 45.0 (11 Feb 2026), via TCGAbiolinks | 01, 07 |
-| TCGA-UCEC clinical and survival tables | UCSC Xena -> `data/TCGA-UCEC clinical.xlsx`, `data/TCGA-UCEC survival.xlsx` | 0 |
+| TCGA-UCEC clinical and survival tables | UCSC Xena -> `data/TCGA-UCEC clinical.xlsx`, `data/TCGA-UCEC survival.xlsx` | 00 |
 | TCGA clinical export including BMI | cBioPortal -> `data/TCGA Firehose.xlsx` | Table 1 |
 | Molecular subtypes | TCGA PanCancer Atlas (`TCGAbiolinks::PanCancerAtlas_subtypes()`) | 03, 07 |
 | HRD scores | Marquard et al. 2015, Biomark Res (Additional file 8), downloaded automatically | 07 |
