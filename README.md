@@ -1,4 +1,6 @@
 # Stromal-associated 9-gene prognostic signature in endometrial carcinoma (TCGA-UCEC)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23722384.svg)]
+(https://doi.org/10.5281/zenodo.23722384)
 
 Analysis code for a stromal-associated 9-gene prognostic signature in uterine corpus endometrial carcinoma. The signature was derived in TCGA-UCEC (ESTIMATE-based stromal stratification, limma, univariate Cox and LASSO-Cox) and replicated in CPTAC-UCEC.
 
@@ -68,6 +70,7 @@ Data objects and tables are written to `results/` and `results1/`, and figures t
 ## Licence and citation
 
 Code is released under the MIT licence. If you use this code, please cite the associated manuscript and this repository.
+Archived at Zenodo: https://doi.org/10.5281/zenodo.23722384
 
 ## Contact
 
